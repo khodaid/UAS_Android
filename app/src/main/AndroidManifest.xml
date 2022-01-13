@@ -20,6 +20,9 @@
         <activity android:name=".MainActivity"
             android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
             ></activity>
+        <activity android:name=".FormPendaftaran"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            ></activity>
     </application>
 
 </manifest>
