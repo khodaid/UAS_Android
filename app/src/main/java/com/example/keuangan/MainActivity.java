@@ -22,14 +22,14 @@ public class MainActivity extends AppCompatActivity {
 
         Controller.add("masuk","BCA","12-12-21",1,true);
 
-        int size = Controller.getP().size();
-        int i = 0;
+//        int size = Controller.getP().size();
+//        int i = 0;
 //        if(Controller.getP().get(0).isStatus()){
 //            iv.setImageResource(R.drawable.iconpemasukan);
 //        }
 
 
-        ImageButton add;
+        ImageButton add, min;
 
         add = (ImageButton) findViewById(R.id.imageButton);
         add.setOnClickListener(new View.OnClickListener() {
@@ -38,6 +38,14 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, FormPendaftaran.class));
             }
         });
+        min = (ImageButton) findViewById(R.id.imageButton3);
+        min.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                startActivity(new Intent(MainActivity.this, Pengeluaran.class));
+            }
+        });
+
 
 
 //        ImageView gbrTrasak = (ImageView) findViewById(R.id.imageView4);

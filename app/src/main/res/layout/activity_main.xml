@@ -98,7 +98,7 @@
 
         <androidx.cardview.widget.CardView
             android:layout_width="match_parent"
-            android:layout_height="300dp">
+            android:layout_height="325dp">
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -202,14 +202,14 @@
                                 android:paddingRight="30dp">
 
                                 <TextView
-                                    android:id="@+id/textView7"
+                                    android:id="@+id/textView1.1"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="Beli Pulsa"
                                     android:textColor="@color/black" />
 
                                 <TextView
-                                    android:id="@+id/textView"
+                                    android:id="@+id/textView1.2"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="BCA" />
@@ -223,7 +223,7 @@
                                 android:orientation="vertical">
 
                                 <TextView
-                                    android:id="@+id/textView2"
+                                    android:id="@+id/textView1.3"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="10.000"
@@ -231,7 +231,7 @@
                                     android:textColor="#DC0F0F" />
 
                                 <TextView
-                                    android:id="@+id/textView3"
+                                    android:id="@+id/textView1.4"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="15-Nov"
@@ -260,14 +260,14 @@
                                 android:paddingRight="30dp">
 
                                 <TextView
-                                    android:id="@+id/textView7"
+                                    android:id="@+id/textView1.5"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="Beli Pulsa"
                                     android:textColor="@color/black" />
 
                                 <TextView
-                                    android:id="@+id/textView"
+                                    android:id="@+id/textView1.6"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="BCA" />
@@ -281,7 +281,7 @@
                                 android:orientation="vertical">
 
                                 <TextView
-                                    android:id="@+id/textView2"
+                                    android:id="@+id/textView1.7"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="10.000"
@@ -289,7 +289,7 @@
                                     android:textColor="#DC0F0F" />
 
                                 <TextView
-                                    android:id="@+id/textView3"
+                                    android:id="@+id/textView1.8"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="15-Nov"
@@ -318,14 +318,14 @@
                                 android:paddingRight="30dp">
 
                                 <TextView
-                                    android:id="@+id/textView7"
+                                    android:id="@+id/textView1.9"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="Beli Pulsa"
                                     android:textColor="@color/black" />
 
                                 <TextView
-                                    android:id="@+id/textView"
+                                    android:id="@+id/textView2.1"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="BCA" />
@@ -339,7 +339,7 @@
                                 android:orientation="vertical">
 
                                 <TextView
-                                    android:id="@+id/textView2"
+                                    android:id="@+id/textView2.2"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="10.000"
@@ -347,7 +347,7 @@
                                     android:textColor="#DC0F0F" />
 
                                 <TextView
-                                    android:id="@+id/textView3"
+                                    android:id="@+id/textView2.3"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="15-Nov"
@@ -377,14 +377,14 @@
                                 android:paddingRight="30dp">
 
                                 <TextView
-                                    android:id="@+id/textView7"
+                                    android:id="@+id/textView2.4"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="Beli Pulsa"
                                     android:textColor="@color/black" />
 
                                 <TextView
-                                    android:id="@+id/textView"
+                                    android:id="@+id/textView2.5"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="BCA" />
@@ -398,7 +398,7 @@
                                 android:orientation="vertical">
 
                                 <TextView
-                                    android:id="@+id/textView2"
+                                    android:id="@+id/textView2.6"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="10.000"
@@ -406,7 +406,7 @@
                                     android:textColor="#DC0F0F" />
 
                                 <TextView
-                                    android:id="@+id/textView3"
+                                    android:id="@+id/textView2.7"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="15-Nov"
@@ -435,14 +435,14 @@
                                 android:paddingRight="30dp">
 
                                 <TextView
-                                    android:id="@+id/textView7"
+                                    android:id="@+id/textView2.8"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="Beli Pulsa"
                                     android:textColor="@color/black" />
 
                                 <TextView
-                                    android:id="@+id/textView"
+                                    android:id="@+id/textView2.9"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="BCA" />
@@ -456,7 +456,7 @@
                                 android:orientation="vertical">
 
                                 <TextView
-                                    android:id="@+id/textView2"
+                                    android:id="@+id/textView3.1"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="10.000"
@@ -464,27 +464,53 @@
                                     android:textColor="#DC0F0F" />
 
                                 <TextView
-                                    android:id="@+id/textView3"
+                                    android:id="@+id/textView3.2"
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:text="15-Nov"
                                     android:textAlignment="textEnd" />
+
                             </LinearLayout>
                         </LinearLayout>
 
                     </LinearLayout>
                 </ScrollView>
+
             </LinearLayout>
 
         </androidx.cardview.widget.CardView>
 
-        <ImageButton
-            android:id="@+id/imageButton"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:background="@color/white"
-            android:layout_marginVertical="15dp"
-            app:srcCompat="@drawable/iconadd" />
+        <com.google.android.material.navigation.NavigationView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingHorizontal="80dp">
+
+                <ImageButton
+                    android:id="@+id/imageButton"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_marginHorizontal="20dp"
+                    android:background="@color/white"
+                    android:minWidth="20dp"
+                    android:minHeight="20dp"
+                    app:srcCompat="@drawable/iconadd" />
+
+                <ImageButton
+                    android:id="@+id/imageButton3"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="@color/white"
+                    android:minWidth="20dp"
+                    android:minHeight="20dp"
+                    app:srcCompat="@drawable/iconmin" />
+            </LinearLayout>
+
+        </com.google.android.material.navigation.NavigationView>
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
